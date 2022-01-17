@@ -1,6 +1,6 @@
 # Conversión Modelos de Machine Learning en API con Python:
 
-:wave: Hola! Nuestro objetivo con este trabajo es continuar con el proceso que sigue un equipo de data science en el desarrollo, implementación y puesta en funcionamiento de modelos de machine learning. En este caso, queremos desarrollar la puesta en funcionamiento de los modelos desarrollados en la practica anterior.(['Pulsa aqui para ver :file_folder:']) (https://github.com/sergerc/Accidentes_canada_ML). Para ello, vamos a realizar los siguientes pasos: 
+:wave: Hola! Nuestro objetivo con este trabajo es continuar con el proceso que sigue un equipo de data science en el desarrollo, implementación y puesta en funcionamiento de modelos de machine learning. En este caso, queremos desarrollar la puesta en funcionamiento de los modelos desarrollados en la practica anterior.(['Pulsa aqui para ver :file_folder:'](https://github.com/sergerc/Accidentes_canada_ML)) . Para ello, vamos a realizar los siguientes pasos: 
 
 - Paso :one: : Utilizamos Flask para poder invocar al modelo generado en la práctica de ['Accidentes_canada_ML'](https://github.com/sergerc/Accidentes_canada_ML). Para ello, usamos todos los archivos situados en la carpeta 'accidentes_api'.
 
