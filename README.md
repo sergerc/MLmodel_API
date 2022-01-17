@@ -10,7 +10,7 @@
 
 # Trabajo Realizado por: 
 
-- :bust_in_silhouette: SERGIO RANZ CASADO. 
+:bust_in_silhouette: SERGIO RANZ CASADO. 
 - Puedes contactar conmigo aqui :point_right: ['Linkedin'](https://www.linkedin.com/in/sergio-ranz-casado-3318b713a/)
 - Mi correo electronico: :point_right:  sergio.ranz95@gmail.com
 
