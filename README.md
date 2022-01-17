@@ -14,6 +14,6 @@
 - Puedes contactar conmigo aqui :point_right: ['Linkedin'](https://www.linkedin.com/in/sergio-ranz-casado-3318b713a/)
 - Mi correo electronico: :point_right:  sergio.ranz95@gmail.com
 
-- :bust_in_silhouette: MARCOS MEDINA COGOLLUDO.
+:bust_in_silhouette: MARCOS MEDINA COGOLLUDO.
 - Puedes contactar conmigo aqui: :point_right: ['Linkedin'](https://www.linkedin.com/in/marcos-medina-9767a9222/)
 - Mi correo electronico: :point_right: marcos.medina@cunef.edu
